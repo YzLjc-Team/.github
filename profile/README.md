@@ -18,6 +18,7 @@
 
 - [`CustomText`](https://github.com/AndyOctopus/CustomText) — 自定义文本 [Public]
 - `LavaJump` — [Private]
+- `YZLjcUtils` — [Private]
 - `YZLjc-Core` — [Private]
 - `YZLjc-Hub` — [Private]
 - `WipeSimulate` — [Private]
